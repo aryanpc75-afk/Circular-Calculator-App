@@ -16,4 +16,5 @@ A modern circular UI calculator built using Flutter with smooth swipe-based rota
 - Dart
 
 ## Screenshots
-![Home](screenshots/Circular Calculator.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e790ed92-beee-4b90-aca5-1f96ae26e225" />
+
