@@ -9,7 +9,7 @@ A modern circular UI calculator built using Flutter with smooth swipe-based rota
 - Dark theme
 
 ## Download APK
-(Coming Soon)
+sha256:3fb30371f1f736290e50ef43ddb9eccbe1afcec0c62050882c47a74813b929bf
 
 ## Built With
 - Flutter
