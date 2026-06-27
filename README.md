@@ -1,17 +1,19 @@
-# spin_calc
+# Circular Calculator App
 
-A new Flutter project.
+A modern circular UI calculator built using Flutter with smooth swipe-based rotation animation.
 
-## Getting Started
+## Features
+- Circular UI design
+- Swipe left/right to rotate
+- Smooth animations
+- Dark theme
 
-This project is a starting point for a Flutter application.
+## Download APK
+(Coming Soon)
 
-A few resources to get you started if this is your first Flutter project:
+## Built With
+- Flutter
+- Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+(Add images here)
